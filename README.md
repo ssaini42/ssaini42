@@ -1,4 +1,4 @@
-### Shivani Saini - SPR500.NBB
+### Shivani Saini - NBB
 
 <!--
 **ssaini42/ssaini42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
