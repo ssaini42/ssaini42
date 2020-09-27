@@ -21,7 +21,7 @@ echo
 
 #IP address, broadcast, and netmask for each active device
 echo "IP address of the active devices: "
-ifconfig | grep 'Link\|inet'
+ip a | grep 'Link\|inet'
 echo
 
 
