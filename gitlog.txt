@@ -1,0 +1,28 @@
+commit 3211b2e648c5dc2f5f7a3b140106ff63411015e5
+Merge: ec854e8 d03e3cc
+Author: ssaini42 <71825630+ssaini42@users.noreply.github.com>
+Date:   Thu Sep 24 15:51:22 2020 +0400
+
+    Merge pull request #1 from ssaini42/readme_edits
+    
+    Update README.md
+
+commit d03e3cc1fd4a310b8f3921a25ff2190f86ac6dbf
+Author: ssaini42 <71825630+ssaini42@users.noreply.github.com>
+Date:   Thu Sep 24 15:45:42 2020 +0400
+
+    Update README.md
+    
+    Added name and section in the description
+
+commit ec854e81896237b8757155292182a9ae31adb994
+Author: ssaini42 <71825630+ssaini42@users.noreply.github.com>
+Date:   Thu Sep 24 15:38:21 2020 +0400
+
+    Update README.md
+
+commit 3b5bd3332160846fdbe2486f9120e1d4f6c378c1
+Author: ssaini42 <71825630+ssaini42@users.noreply.github.com>
+Date:   Thu Sep 24 15:36:24 2020 +0400
+
+    Initial commit
